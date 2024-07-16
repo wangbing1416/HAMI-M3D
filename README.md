@@ -2,6 +2,8 @@
 This repo is the released code of our work **Harmfully Manipulated Images Matter in Multimodal
 Misinformation Detection**
 
+📣 News: This paper is accepted by ACM MM'24!
+
 Our released code follows to "EANN: Event Adversarial Neural Networks for Multi-Modal Fake News Detection" and "BDANN: BERT-Based Domain Adaptation Neural
 Network for Multi-Modal Fake News Detection"
 
