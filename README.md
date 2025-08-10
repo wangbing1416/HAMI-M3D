@@ -34,5 +34,18 @@ python ./run.py
 
 ### Citation
 ```
-
+@inproceedings{wang2024harmfully,
+  author       = {Bing Wang and
+                  Shengsheng Wang and
+                  Changchun Li and
+                  Renchu Guan and
+                  Ximing Li},
+  title        = {Harmfully Manipulated Images Matter in Multimodal Misinformation Detection},
+  booktitle    = {{ACM} International Conference on Multimedia},
+  pages        = {2262--2271},
+  publisher    = {{ACM}},
+  year         = {2024},
+  doi          = {10.1145/3664647.3681322},
+}
 ```
+
